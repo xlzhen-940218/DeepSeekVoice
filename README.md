@@ -1,9 +1,3 @@
-好的，这是一个针对您的项目目标和技术实现量身定制的 `README.md` 文件草稿。
-
-这个 README 强调了项目的价值、解决了什么问题，并清晰地解释了技术实现（特别是针对 Android WebView 兼容性问题）。
-
----
-
 # 🤖 DeepSeek 消息朗读助手 (DeepSeek Reader)
 
 ## 🌟 项目简介
